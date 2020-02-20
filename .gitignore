@@ -1,0 +1,10 @@
+.DS_Store
+data.zip
+.ipynb_checkpoints/
+.idea/
+data/
+dist/
+tmp/
+venv/
+__pycache__/
+実験結果.zip
